@@ -30,7 +30,7 @@ Visualization - Matplotlib |
 🧩 Installation
 1. Clone the repository |
    bash 
-   git clone https://github.com/MahanteshPatil1214/stock-predictor.git
+   git clone https://github.com/MahanteshPatil1214/stock-predictor.git |
    cd stock-predictor
 
 2. Install dependencies |
